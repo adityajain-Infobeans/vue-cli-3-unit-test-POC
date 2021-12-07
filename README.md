@@ -20,7 +20,7 @@
 
 2. Run test for single component:
 
-    `yarn test -t {test_file_path}`
+    `yarn test {test_file_name}`
 
 ## Setup for Linux
 
@@ -45,7 +45,7 @@
 4.  Clone the Repo and change to that directory:
 
     ```
-    $ git clone https://github.com/adityajain-Infobeans/vue-unit-test-POC
+    $ git clone https://github.com/adityajain-Infobeans/vue-cli-3-unit-test-POC
     ```
 
 5.  Install all dependencies:
